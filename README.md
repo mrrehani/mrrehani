@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.michael-rehani.com/](https://www.michael-rehani.com/)
 
-- 💬 Ask me about **My project using convolutional neural networks to find Waldo.**
+- 💬 Ask me about **my project using convolutional neural networks to find Waldo.**
 
 - 📫 How to reach me **mrrehani@wisc.edu**
 
